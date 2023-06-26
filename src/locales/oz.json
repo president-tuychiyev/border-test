@@ -1,0 +1,432 @@
+{
+    "side": {
+        "title": "O‘zbekiston Respublikasi Davlat Xavfsizlik Xizmati Chegara qo‘shinlari",
+        "menu": {
+            "security": "Foydalanish shartlari",
+            "about": "Dastur haqida",
+            "possibility": "Dastur Imkoniyati"
+        },
+        "securityText": [
+            "Dastur ma'lumotlaridan g'arazli maqsadlarda foydalanish mualliflik huqiqini buzish bilan barobar hisoblanib tegishli jazo choralariga sabab bo'lishi mumkin!",
+            "Ushbu dastur ma'lumotlaridan foydalanishda mualliflik huqiqi ruhsati yoki huquq egasi mualifflik manzillari ko'rsatilishi shart."
+        ],
+        "aboutText": [
+            "Ushbu dastur ma'lumotlari, Oʻzbekiston respublikasi Qurolli kuchlar akademiyasi 2 kurs tinglovchisi Matkarimov Ziyodulla Azimjon o'g'li tomonidan ishlab chiqilgan.",
+            "Dastur versiyasi: 1.0.0"
+        ]
+    },
+    "home": {
+        "card1": [
+            "Jarayonda",
+            "Ushbu tizim ma'lumotlari to'ldirlish jarayonida.",
+            "Imkoniyati",
+            "Ushbu dasturdan light hamda dark rejimlarida ishlash mumkin bo'lib ushbu imkniyat foydalanuvchi ma'lumotlarni o'qish jarayonida qulayliklar keltirib chiqaradi."
+        ],
+        "card2": [
+            "O‘tkazish punktlari bo‘yicha ma’lumotnoma",
+            "Dastur orqali o'tkazish punktlari haqida barafsil ma'lumot olish mumkin bo'lib, hususan punktlarda o'tkazish uchun talab qilnadigan hujjatlar ro'yhati, o'tkazilishi mumkin bo'lgan buyumlar hajmi/miqdori haqida to'liq ma'lumotga ega bo'lish va o'tkazish punktlarining aniq manzillarini ko'rish mumkin.Dastur orqali o‘tkazish punktlari haqida barafsil ma’lumot olish mumkin bo‘lib, hususan punktlarda o‘tkazish uchun talab qilnadigan hujjatlar ro‘yhati, o‘tkazilishi mumkin bo‘lgan buyumlar hajmi/miqdori haqida to‘liq ma’lumotga ega bo‘lish va o‘tkazish punktlarining aniq manzillarini ko‘rish mumkin."
+        ]
+    },
+    "location": {
+        "title": "Sizning joylashuvingiz",
+        "content": "Ushbu sahifa hozirgi joylashuvingizni aniqlashingiz mumkin!"
+    },
+    "map": {
+        "title": "O‘tkazish punktlari bo‘yicha ma’lumot",
+        "details": [
+            "O‘P nomlanishi",
+            "Maqomi",
+            "Ish rejimi",
+            "Joylashuv"
+        ],
+        "data": [
+            {
+                "tag": "Avg‘oniston bilan chegarada",
+                "text": "Oʻzbekiston va Afgʻoniston chegarasi Oʻzbekistonning tashqi chegaralaridan eng qisqasi boʻlib, 144 kilometr (89 mi) va Turkmaniston bilan chegaradosh chorrahadan Amudaryo boʻylab Tojikiston bilan chegaradosh tutashuvgacha oʻtadi.",
+                "desc": "Butun chegara qismi Amudaryoning tubi boʻylab gʻarbdagi Turkmaniston chegarasi bilan tutashuvidan to sharqdagi Tojikiston chegara tutashuvigacha oʻtadi. Chegara Oʻzbekiston tomonidan avtomobil va temir yoʻl boʻylab oʻtadi va Oʻzbekistonning Termiz shahridan sharqda asosiy nazorat punkti joylashgan. Oʻzbekiston davlati chegara boʻylab ikkita darajadagi toʻsiqdan iborat toʻsiq qurdi: biri tikanli simdan, ikkinchisi esa balandroq, elektr toki (380 volt) oʻrnatilgan tikanli simdan, minalar va qurollangan oʻzbek askarlaridan iborat patrul hizmat faoliyatini olib boradi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Afg%CA%BBoniston_chegarasi#Chegaradan_o%CA%BBtish_joylari",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Termiz-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxondaryo viloyati"
+                    },
+                    {
+                        "title": "Termiz-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxondaryo viloyati"
+                    },
+                    {
+                        "title": "Termiz-daryo porti",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxondaryo viloyati"
+                    }
+                ]
+            },
+            {
+                "tag": "Tojikiston bilan chegarada",
+                "text": "Oʻzbekiston va Tojikiston chegarasi Tojikiston va Oʻzbekiston oʻrtasidagi xalqaro chegara hisoblanadi. U 1,312 kilometr (815 mi) uzunligi va Oʻzbekistonning sharqiy qimidan Qirgʻiziston bilan va janibiy qismidan Afgʻoniston bilan chegara nuqtasigacha davom etadi.",
+                "desc": "Chegara shimoldan Qirgʻiziston bilan chegara nuqtasidan boshlanib, Sirdaryo boʻylab gʻarb, shimoli-gʻarb, shimoli-sharqga va nihoyat shimoli-gʻarbga qarab Qurama tizmasiga yetib boradi. Chegara bu tizma boʻylab gʻarbga qarab oʻtib, janubga burilib, Sirdaryo boʻyida Oʻzbekistonning Olmaliq shahri yaqiniga boradi. Chegaraning keyingi qismi nihoyatda qiyshiq boʻlib, Tojikiston hududining uzun choʻzilgan qismi (Zafarobod tumani) va bir qator tartibsiz chiziqlar; oxir-oqibat chegara Turkiston tizmasiga yetib, keskin gʻarbga burilishdan oldin taxminan janubga qarab boradi. Keyin chegara „S“ shaklida boʻlib, shimolda Oʻzbekistonning Zomin milliy bogʻi va Turkiston togʻlari, oʻrtada Zarafshon tizmasi, janubda Hisor tizmasi joylashgan. Keyin chegara taxminan janubga qarab Afgʻoniston chegara nuqtasigacha boradi; chegarasining bir qismi Kofarnihon daryosi boʻylab oʻtadi va Bobotogʻ va Tuyuntov tizmalarini kesib oʻtadi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Tojikiston_chegarasi#Chegara_o%CA%BBtish_joylari",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Oybek-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Bekobod-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Plotina-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Uchturgan-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Jizzax viloyati"
+                    },
+                    {
+                        "title": "Kushkent-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Jizzax viloyati"
+                    },
+                    {
+                        "title": "Xovostobod-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Jartepa-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Samarqand viloyati"
+                    },
+                    {
+                        "title": "Sarosiyo-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxandaryo viloyati"
+                    },
+                    {
+                        "title": "Bobotog‘-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Surxandaryo viloyati"
+                    },
+                    {
+                        "title": "Gulbahor-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxandaryo viloyati"
+                    },
+                    {
+                        "title": "Pop-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Namangan viloyati"
+                    },
+                    {
+                        "title": "Rovot-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Farg‘ona viloyati"
+                    },
+                    {
+                        "title": "Andarxon-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Farg‘ona viloyati"
+                    },
+                    {
+                        "title": "Bekobod-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Sarosiyo-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxandaryo viloyati"
+                    },
+                    {
+                        "title": "Amuzang-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxandaryo viloyati"
+                    }
+                ]
+            },
+            {
+                "tag": "Qozogʻiston bilan chegarada",
+                "text": "Oʻzbekiston va Tojikiston chegarasi Tojikiston va Oʻzbekiston oʻrtasidagi xalqaro chegara hisoblanadi. U 1,312 kilometr (815 mi) uzunligi va Oʻzbekistonning sharqiy qimidan Qirgʻiziston bilan va janibiy qismidan Afgʻoniston bilan chegara nuqtasigacha davom etadi.",
+                "desc": "Chegara shimoldan Qirgʻiziston bilan chegara nuqtasidan boshlanib, Sirdaryo boʻylab gʻarb, shimoli-gʻarb, shimoli-sharqga va nihoyat shimoli-gʻarbga qarab Qurama tizmasiga yetib boradi. Chegara bu tizma boʻylab gʻarbga qarab oʻtib, janubga burilib, Sirdaryo boʻyida Oʻzbekistonning Olmaliq shahri yaqiniga boradi. Chegaraning keyingi qismi nihoyatda qiyshiq boʻlib, Tojikiston hududining uzun choʻzilgan qismi (Zafarobod tumani) va bir qator tartibsiz chiziqlar; oxir-oqibat chegara Turkiston tizmasiga yetib, keskin gʻarbga burilishdan oldin taxminan janubga qarab boradi. Keyin chegara „S“ shaklida boʻlib, shimolda Oʻzbekistonning Zomin milliy bogʻi va Turkiston togʻlari, oʻrtada Zarafshon tizmasi, janubda Hisor tizmasi joylashgan. Keyin chegara taxminan janubga qarab Afgʻoniston chegara nuqtasigacha boradi; chegarasining bir qismi Kofarnihon daryosi boʻylab oʻtadi va Bobotogʻ va Tuyuntov tizmalarini kesib oʻtadi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Tojikiston_chegarasi#Chegara_o%CA%BBtish_joylari",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Dout-ota-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Qoraqalpog'iston Respublikasi"
+                    },
+                    {
+                        "title": "Malika-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Oq oltin-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Yallama-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "G'isht-ko'prik-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Guliston-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Zangiota-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Toshkent-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Qoraqalpog'iston-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Qoraqalpog'iston Respublikasi"
+                    },
+                    {
+                        "title": "Siradaryo-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Keles-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    },
+                    {
+                        "title": "Oq-qo'prik-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Toshkent viloyati"
+                    }
+                ]
+            },
+            {
+                "tag": "Turkmaniston bilan chegarada",
+                "text": "Turkmaniston-Oʻzbekiston chegarasi — Turkmaniston Respublikasi va Oʻzbekiston Respublikasi davlatlari oʻrtasidagi chegara hisoblanadi. Uzunligi 1793 km (1114 milya), bu Turkmanistonning eng uzun chegarasi va Oʻzbekistonning uzunligi boʻyicha ikkinchi oʻrinda turuvchi eng uzun chegarasi (Oʻzbekistonning Qozogʻiston bilan chegarasidan soʻng) sanaladi.",
+                "desc": "Chegara gʻarbda Qozogʻiston bilan uchish nuqtasidan boshlanadi. U keskin ravishda shimolga, soʻngra shimoli-sharqqa burilib, chegarani kesib oʻtuvchi Sariqamish koʻlidan oʻtib, sharqqa qarab taxminan toʻgʻri chiziq boʻylab oʻtadi; Shuningdek, ushbu boʻlimda Oʻzbekiston hududining Turkmaniston chegarasiga uzoq choʻzilishi tasvirlangan. Keyin chegara Shumanay yaqinidan janubi-sharqqa burilib, Pitnak va Gʻozojak yaqinidagi Amudaryoga yetib borguncha biroz burilishli yoʻnalish boʻylab oʻtadi; keyin daryo boʻylab 40-parallel shimolga pastga tushadi. Keyin chegara Qoraqum choʻli orqali janubi-sharqda bir qator toʻgʻri chiziqlar boʻylab oʻtadi, keyin janubga Koʻhitang tizmasi orqali Amudaryo boʻylab Afgʻoniston bilan chegara nuqtasigacha oʻtadi. Chegaraning katta qismi chegarani uch marta kesib oʻtuvchi yirik temir yoʻl orqali oʻtadi, bu Sovet davridan qolgan meros boʻlib, u yerda infratuzilma oʻsha paytdagi ichki chegaralardan qatʼi nazar qurilgan.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Turkmaniston_chegarasi",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Olot-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Buxoro viloyati"
+                    },
+                    {
+                        "title": "Do'stlik-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kunduzgi",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Shovot-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kunduzgi",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Xojeyli-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Talimarjon-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Qashqadaryo viloyati"
+                    },
+                    {
+                        "title": "Boldir-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Surxandaryo viloyati"
+                    },
+                    {
+                        "title": "Talimarjon-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Qashqadaryo viloyati"
+                    },
+                    {
+                        "title": "Xo'jadavlat-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Buxoro viloyati"
+                    },
+                    {
+                        "title": "Naymanqo'l-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Shovot-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    }
+                ]
+            },
+            {
+                "tag": "Qirgʻiziston bilan chegarada",
+                "text": "Qirgʻiziston-Oʻzbekiston chegarasi, uzunligi 1314  km (816 mil) boʻlib, Qozogʻiston chegarasidan Tojikiston chegarasigacha choʻzilgan.[1] Bu Qirgʻizistonning boshqa qoʻshnilariga qaraganda eng uzun chegarasi hisoblanadi.",
+                "desc": "Chegara shimolda Qozogʻiston bilan chegara nuqtasidan boshlanib, soʻngra Qozogʻiston va Qirgʻiziston oʻrtasida barmoq shaklida kiritilgan oʻzbek yerlari boʻylab davom etadi. Chegara Pskem togʻlaridan oʻtadi, ularning katta qismi bir qator milliy bogʻlar (Oʻzbekistondagi Ugom-Chotqol davlat tabiat milliy bogʻi va Qirgʻizistondagi Besh-Orol davlat qoʻriqxonasi)ga aylantirilgan",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Qirg%CA%BBiziston_chegarasi",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Do'stlik-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Madaniyat-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "O‘zbekiston-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Farg‘ona viloyati"
+                    },
+                    {
+                        "title": "Kosonsoy-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "kunduzgi",
+                        "adderess": "Namangan viloyati"
+                    },
+                    {
+                        "title": "Savay-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Xonobod-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Uchqo‘rgo‘on-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Namangan viloyati"
+                    },
+                    {
+                        "title": "Quvasoy-temir yo‘l",
+                        "status": "xalqaro",
+                        "mode": "kechayu-kunduz (24/7)",
+                        "adderess": "Farg‘ona viloyati"
+                    },
+                    {
+                        "title": "Qorasuv-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Xonobod-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Keskanyor-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Uchqo‘rgo‘on-avtoyo‘l",
+                        "status": "xalqaro",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Namangan viloyati"
+                    },
+                    {
+                        "title": "Mingtepa-avtoyo‘l",
+                        "status": "ikki tomonlama",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Pushmon-avtoyo‘l",
+                        "status": "soddlashtirilgan",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Qoraqo‘rg‘on-avtoyo‘l",
+                        "status": "soddlashtirilgan",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Namangan viloyati"
+                    },
+                    {
+                        "title": "Vodil",
+                        "status": "",
+                        "mode": "kunduzgi",
+                        "adderess": "Namangan viloyati"
+                    }
+                ]
+            }
+        ]
+    }
+}
