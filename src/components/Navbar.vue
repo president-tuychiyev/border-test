@@ -113,9 +113,9 @@ const details = reactive({
     <n-modal v-model:show="details.showModalPossibility" :mask-closable="false" preset="dialog"
         :title="$t('side.menu.possibility')">
         <n-p>
-            <n-tag type="success" class="mr-1 uppercase">{{ $t('home.card1[0]') }}: </n-tag>{{ $t('home.card1[1]') }}
+            <n-tag type="success" class="mr-1 uppercase">{{ $t('side.opportunity[0]') }}: </n-tag>{{ $t('side.opportunity[1]') }}
             <br>
-            <n-tag type="success" class="mt-3 mr-1 uppercase">{{ $t('home.card1[2]') }}: </n-tag>{{ $t('home.card1[3]') }}
+            <n-tag type="success" class="mt-3 mr-1 uppercase">{{ $t('side.opportunity[2]') }}: </n-tag>{{ $t('side.opportunity[3]') }}
         </n-p>
     </n-modal>
 </template>

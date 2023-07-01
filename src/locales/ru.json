@@ -1,1 +1,460 @@
-{}
+{
+    "side": {
+        "title": "Пограничные войска Службы государственной безопасности Республики Узбекистан",
+        "menu": {
+            "security": "Условия эксплуатации",
+            "about": "О программе",
+            "possibility": "Возможность программы"
+        },
+        "securityText": [
+            "Злонамеренное использование информации о программе может рассматриваться как нарушение авторских прав и повлечь за собой соответствующие санкции!",
+            "Использование этой программной информации регулируется лицензией на авторское право или указанием адреса правообладателя."
+        ],
+        "aboutText": [
+            "Информация данной программы разработана сыном Маткаримова Зиёдуллой Азимжоном, курсантом 2 курса Академии Вооруженных Сил Республики Узбекистан.",
+            "Версия ПО: 1.0.0"
+        ],
+        "opportunity": [
+            "В ходе выполнения",
+            "Эта системная информация находится в процессе заполнения.",
+            "Возможность",
+            "Эту программу можно использовать как в светлом, так и в темном режимах, эта функция делает процесс чтения данных более комфортным для пользователя."
+        ]
+    },
+    "home": {
+        "card1": [
+            "Информация о пунктах пересадки",
+            "Через программу возможно получить подробную информацию о пунктах передачи, в частности, список документов, необходимых для передачи в пунктах, полную информацию о размерах/количествах вещей, которые можно передать. Пункты передачи.Через программу Вы можете получить подробную информацию о пунктах передачи, в частности, список документов, необходимых для передачи в пунктах, которые могут быть переданы.Вы можете получить полную информацию о размере/количестве товара и посмотреть точное расположение точек пересадки."
+        ],
+        "card2": [
+            "Какие страны узбекистанцы могут посещать без визы?",
+            "Henley & Partners указатель загранпаспортов, ежегодно публикуемый компанией",
+            "обновлен",
+            "Источник: daryo.uz",
+            "Больше"
+        ],
+        "card3": [
+            "Граждане каких стран могут въезжать в Узбекистан без визы?",
+            "С 10 февраля 2018 года вы можете ознакомиться со списком стран с упрощенным визовым режимом.",
+            "Источник: kun.uz",
+            "Больше"
+        ]
+    },
+    "manual": {
+        "card1": [
+            "Необходимые документы",
+            "Паспорт гражданина",
+            "Если вы потеряли паспорт, вы можете получить справку о репатриации в посольстве."
+        ],
+        "card2": [
+            "Предметы, которые можно ввозить на территорию Узбекистана",
+            "В течение 6 месяцев на территорию Узбекистана можно ввезти ограниченное количество мелкой техники на сумму 300 долларов США."
+        ],
+        "card3": [
+            "Сумма, которую можно ввозить и вывозить на территорию Узбекистана",
+            "На территорию Узбекистана можно ввозить неограниченное количество долларов, а выводить с территории Узбекистана деньги не более 100 миллионов."
+        ]
+    },
+    "location": {
+        "title": "Ваше местоположение",
+        "content": "Эта страница может определить ваше текущее местоположение!"
+    },
+    "map": {
+        "title": "Информация о пунктах пересадки",
+        "details": [
+            "Название ОП",
+            "Положение дел",
+            "Режим работы",
+            "Расположение"
+        ],
+        "data": [
+            {
+                "tag": "На границе с Афганистаном",
+                "text": "Граница между Узбекистаном и Афганистаном является самой короткой из внешних границ Узбекистана, ее протяженность составляет 144 километра (89 миль), и она проходит от пограничного перехода с Туркменистаном вдоль реки Амударья до пограничного узла с Таджикистаном.",
+                "desc": "Butun chegara qismi Amudaryoning tubi boʻylab gʻarbdagi Turkmaniston chegarasi bilan tutashuvidan to sharqdagi Tojikiston chegara tutashuvigacha oʻtadi. Chegara Oʻzbekiston tomonidan avtomobil va temir yoʻl boʻylab oʻtadi va Oʻzbekistonning Termiz shahridan sharqda asosiy nazorat punkti joylashgan. Oʻzbekiston davlati chegara boʻylab ikkita darajadagi toʻsiqdan iborat toʻsiq qurdi: biri tikanli simdan, ikkinchisi esa balandroq, elektr toki (380 volt) oʻrnatilgan tikanli simdan, minalar va qurollangan oʻzbek askarlaridan iborat patrul hizmat faoliyatini olib boradi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Afg%CA%BBoniston_chegarasi#Chegaradan_o%CA%BBtish_joylari",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Termiz-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Termiz-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Termiz-daryo porti",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    }
+                ]
+            },
+            {
+                "tag": "На границе с Таджикистаном",
+                "text": "Граница между Узбекистаном и Таджикистаном является международной границей между Таджикистаном и Узбекистаном. Его длина составляет 1312 километров (815 миль), и он проходит от восточной части Узбекистана до границы с Кыргызстаном и в южной части с Афганистаном.",
+                "desc": "Chegara shimoldan Qirgʻiziston bilan chegara nuqtasidan boshlanib, Sirdaryo boʻylab gʻarb, shimoli-gʻarb, shimoli-sharqga va nihoyat shimoli-gʻarbga qarab Qurama tizmasiga yetib boradi. Chegara bu tizma boʻylab gʻarbga qarab oʻtib, janubga burilib, Sirdaryo boʻyida Oʻzbekistonning Olmaliq shahri yaqiniga boradi. Chegaraning keyingi qismi nihoyatda qiyshiq boʻlib, Tojikiston hududining uzun choʻzilgan qismi (Zafarobod tumani) va bir qator tartibsiz chiziqlar; oxir-oqibat chegara Turkiston tizmasiga yetib, keskin gʻarbga burilishdan oldin taxminan janubga qarab boradi. Keyin chegara „S“ shaklida boʻlib, shimolda Oʻzbekistonning Zomin milliy bogʻi va Turkiston togʻlari, oʻrtada Zarafshon tizmasi, janubda Hisor tizmasi joylashgan. Keyin chegara taxminan janubga qarab Afgʻoniston chegara nuqtasigacha boradi; chegarasining bir qismi Kofarnihon daryosi boʻylab oʻtadi va Bobotogʻ va Tuyuntov tizmalarini kesib oʻtadi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Tojikiston_chegarasi#Chegara_o%CA%BBtish_joylari",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Oybek-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Bekobod-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Plotina-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Uchturgan-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Джизакская область"
+                    },
+                    {
+                        "title": "Kushkent-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Джизакская область"
+                    },
+                    {
+                        "title": "Xovostobod-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Jartepa-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Самаркандская область"
+                    },
+                    {
+                        "title": "Sarosiyo-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Bobotog‘-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Gulbahor-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Pop-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Наманганская область"
+                    },
+                    {
+                        "title": "Rovot-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Ферганская область"
+                    },
+                    {
+                        "title": "Andarxon-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ферганская область"
+                    },
+                    {
+                        "title": "Bekobod-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Sarosiyo-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Amuzang-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    }
+                ]
+            },
+            {
+                "tag": "На границе с Казахстаном",
+                "text": "",
+                "desc": "",
+                "link": "",
+                "source": "",
+                "children": [
+                    {
+                        "title": "Dout-ota-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Республика Каракалпакстан"
+                    },
+                    {
+                        "title": "Malika-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Oq oltin-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Yallama-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "G'isht-ko'prik-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Guliston-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Zangiota-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Toshkent-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Qoraqalpog'iston-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Республика Каракалпакстан"
+                    },
+                    {
+                        "title": "Siradaryo-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Sirdaryo viloyati"
+                    },
+                    {
+                        "title": "Keles-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    },
+                    {
+                        "title": "Oq-qo'prik-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ташкентская область"
+                    }
+                ]
+            },
+            {
+                "tag": "Turkmaniston bilan chegarada",
+                "text": "Turkmaniston-Oʻzbekiston chegarasi — Turkmaniston Respublikasi va Oʻzbekiston Respublikasi davlatlari oʻrtasidagi chegara hisoblanadi. Uzunligi 1793 km (1114 milya), bu Turkmanistonning eng uzun chegarasi va Oʻzbekistonning uzunligi boʻyicha ikkinchi oʻrinda turuvchi eng uzun chegarasi (Oʻzbekistonning Qozogʻiston bilan chegarasidan soʻng) sanaladi.",
+                "desc": "Chegara gʻarbda Qozogʻiston bilan uchish nuqtasidan boshlanadi. U keskin ravishda shimolga, soʻngra shimoli-sharqqa burilib, chegarani kesib oʻtuvchi Sariqamish koʻlidan oʻtib, sharqqa qarab taxminan toʻgʻri chiziq boʻylab oʻtadi; Shuningdek, ushbu boʻlimda Oʻzbekiston hududining Turkmaniston chegarasiga uzoq choʻzilishi tasvirlangan. Keyin chegara Shumanay yaqinidan janubi-sharqqa burilib, Pitnak va Gʻozojak yaqinidagi Amudaryoga yetib borguncha biroz burilishli yoʻnalish boʻylab oʻtadi; keyin daryo boʻylab 40-parallel shimolga pastga tushadi. Keyin chegara Qoraqum choʻli orqali janubi-sharqda bir qator toʻgʻri chiziqlar boʻylab oʻtadi, keyin janubga Koʻhitang tizmasi orqali Amudaryo boʻylab Afgʻoniston bilan chegara nuqtasigacha oʻtadi. Chegaraning katta qismi chegarani uch marta kesib oʻtuvchi yirik temir yoʻl orqali oʻtadi, bu Sovet davridan qolgan meros boʻlib, u yerda infratuzilma oʻsha paytdagi ichki chegaralardan qatʼi nazar qurilgan.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Turkmaniston_chegarasi",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Olot-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Buxoro viloyati"
+                    },
+                    {
+                        "title": "Do'stlik-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "дневное время",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Shovot-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "дневное время",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Xojeyli-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Talimarjon-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Qashqadaryo viloyati"
+                    },
+                    {
+                        "title": "Boldir-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Сурхандарьинская область"
+                    },
+                    {
+                        "title": "Talimarjon-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Qashqadaryo viloyati"
+                    },
+                    {
+                        "title": "Xo'jadavlat-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Buxoro viloyati"
+                    },
+                    {
+                        "title": "Naymanqo'l-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    },
+                    {
+                        "title": "Shovot-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Xorazm viloyati"
+                    }
+                ]
+            },
+            {
+                "tag": "Qirgʻiziston bilan chegarada",
+                "text": "",
+                "desc": "",
+                "link": "",
+                "source": "",
+                "children": [
+                    {
+                        "title": "Do'stlik-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Madaniyat-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "O‘zbekiston-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ферганская область"
+                    },
+                    {
+                        "title": "Kosonsoy-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "дневное время",
+                        "adderess": "Наманганская область"
+                    },
+                    {
+                        "title": "Savay-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Xonobod-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Uchqo‘rgo‘on-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Наманганская область"
+                    },
+                    {
+                        "title": "Quvasoy-temir yo‘l",
+                        "status": "Международный",
+                        "mode": "круглосуточно (24/7)",
+                        "adderess": "Ферганская область"
+                    },
+                    {
+                        "title": "Qorasuv-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Xonobod-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Keskanyor-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Uchqo‘rgo‘on-avtoyo‘l",
+                        "status": "Международный",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Наманганская область"
+                    },
+                    {
+                        "title": "Mingtepa-avtoyo‘l",
+                        "status": "двусторонний",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Pushmon-avtoyo‘l",
+                        "status": "soddlashtirilgan",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Andijon viloyati"
+                    },
+                    {
+                        "title": "Qoraqo‘rg‘on-avtoyo‘l",
+                        "status": "soddlashtirilgan",
+                        "mode": "faoliyat yuritmayabdi",
+                        "adderess": "Наманганская область"
+                    },
+                    {
+                        "title": "Vodil",
+                        "status": "",
+                        "mode": "дневное время",
+                        "adderess": "Наманганская область"
+                    }
+                ]
+            }
+        ]
+    }
+}

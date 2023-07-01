@@ -1,0 +1,7 @@
+{
+  "name": "chegara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

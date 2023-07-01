@@ -4,7 +4,7 @@
         "menu": {
             "security": "Foydalanish shartlari",
             "about": "Dastur haqida",
-            "possibility": "Dastur Imkoniyati"
+            "possibility": "Dastur imkoniyati"
         },
         "securityText": [
             "Dastur ma'lumotlaridan g'arazli maqsadlarda foydalanish mualliflik huqiqini buzish bilan barobar hisoblanib tegishli jazo choralariga sabab bo'lishi mumkin!",
@@ -13,18 +13,46 @@
         "aboutText": [
             "Ushbu dastur ma'lumotlari, Oʻzbekiston respublikasi Qurolli kuchlar akademiyasi 2 kurs tinglovchisi Matkarimov Ziyodulla Azimjon o'g'li tomonidan ishlab chiqilgan.",
             "Dastur versiyasi: 1.0.0"
-        ]
-    },
-    "home": {
-        "card1": [
+        ],
+        "opportunity": [
             "Jarayonda",
             "Ushbu tizim ma'lumotlari to'ldirlish jarayonida.",
             "Imkoniyati",
             "Ushbu dasturdan light hamda dark rejimlarida ishlash mumkin bo'lib ushbu imkniyat foydalanuvchi ma'lumotlarni o'qish jarayonida qulayliklar keltirib chiqaradi."
-        ],
-        "card2": [
+        ]
+    },
+    "home": {
+        "card1": [
             "O‘tkazish punktlari bo‘yicha ma’lumotnoma",
             "Dastur orqali o'tkazish punktlari haqida barafsil ma'lumot olish mumkin bo'lib, hususan punktlarda o'tkazish uchun talab qilnadigan hujjatlar ro'yhati, o'tkazilishi mumkin bo'lgan buyumlar hajmi/miqdori haqida to'liq ma'lumotga ega bo'lish va o'tkazish punktlarining aniq manzillarini ko'rish mumkin.Dastur orqali o‘tkazish punktlari haqida barafsil ma’lumot olish mumkin bo‘lib, hususan punktlarda o‘tkazish uchun talab qilnadigan hujjatlar ro‘yhati, o‘tkazilishi mumkin bo‘lgan buyumlar hajmi/miqdori haqida to‘liq ma’lumotga ega bo‘lish va o‘tkazish punktlarining aniq manzillarini ko‘rish mumkin."
+        ],
+        "card2": [
+            "O‘zbekistonliklar qaysi davlatlarga vizasiz borishi mumkin?",
+            "Henley & Partners kompaniyasi har yili e’lon qilinuvchi xalqaro pasportlar indeksini",
+            "yangiladi",
+            "Manbaa: daryo.uz",
+            "Batafsil"
+        ],
+        "card3": [
+            "Qaysi davlat fuqarolari O‘zbekistonga vizasiz kirish imkoniga ega?",
+            "2018 yilning 10 fevralidan soddalashtirilgan viza rejimi amalda qo‘llanuvchi mamlakatlar ro‘yxati bilan tanishishingiz mumkin.",
+            "Manbaa: kun.uz",
+            "Batafsil"
+        ]
+    },
+    "manual": {
+        "card1": [
+            "Kerak boʻladigon hujjatlar",
+            "Fuqarolik pasporti",
+            "Pasportini yoʻqotgan boʻlsa vatanga qaytish guvohnomasi elchixonadan olinadi"
+        ],
+        "card2": [
+            "O'zbekiston hududiga olib kirish mumkin bo'lgan buyumlar",
+            "Oʻzbekiston hududiga 6 oyda cheklangan summa <b>$300</b> tan narhiga ega bo'lgan mayshi texnika olib kirish mumkin."
+        ],
+        "card3": [
+            "O'zbekiston hududiga olib kirish va olib chiqish mumkin bo'lgan summa",
+            "Oʻzbekiston hududiga cheklanmagan miqdorda $ olib kirish mumkin, O'zbekiston hududidan 100 million summadan oshmagan holda pul mablag'larini olib chiqishi mumkin."
         ]
     },
     "location": {
@@ -174,10 +202,10 @@
             },
             {
                 "tag": "Qozogʻiston bilan chegarada",
-                "text": "Oʻzbekiston va Tojikiston chegarasi Tojikiston va Oʻzbekiston oʻrtasidagi xalqaro chegara hisoblanadi. U 1,312 kilometr (815 mi) uzunligi va Oʻzbekistonning sharqiy qimidan Qirgʻiziston bilan va janibiy qismidan Afgʻoniston bilan chegara nuqtasigacha davom etadi.",
-                "desc": "Chegara shimoldan Qirgʻiziston bilan chegara nuqtasidan boshlanib, Sirdaryo boʻylab gʻarb, shimoli-gʻarb, shimoli-sharqga va nihoyat shimoli-gʻarbga qarab Qurama tizmasiga yetib boradi. Chegara bu tizma boʻylab gʻarbga qarab oʻtib, janubga burilib, Sirdaryo boʻyida Oʻzbekistonning Olmaliq shahri yaqiniga boradi. Chegaraning keyingi qismi nihoyatda qiyshiq boʻlib, Tojikiston hududining uzun choʻzilgan qismi (Zafarobod tumani) va bir qator tartibsiz chiziqlar; oxir-oqibat chegara Turkiston tizmasiga yetib, keskin gʻarbga burilishdan oldin taxminan janubga qarab boradi. Keyin chegara „S“ shaklida boʻlib, shimolda Oʻzbekistonning Zomin milliy bogʻi va Turkiston togʻlari, oʻrtada Zarafshon tizmasi, janubda Hisor tizmasi joylashgan. Keyin chegara taxminan janubga qarab Afgʻoniston chegara nuqtasigacha boradi; chegarasining bir qismi Kofarnihon daryosi boʻylab oʻtadi va Bobotogʻ va Tuyuntov tizmalarini kesib oʻtadi.",
-                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Tojikiston_chegarasi#Chegara_o%CA%BBtish_joylari",
-                "source": "wikipedia",
+                "text": "",
+                "desc": "",
+                "link": "",
+                "source": "",
                 "children": [
                     {
                         "title": "Dout-ota-avtoyo‘l",
@@ -417,12 +445,6 @@
                         "title": "Qoraqo‘rg‘on-avtoyo‘l",
                         "status": "soddlashtirilgan",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Namangan viloyati"
-                    },
-                    {
-                        "title": "Vodil",
-                        "status": "",
-                        "mode": "kunduzgi",
                         "adderess": "Namangan viloyati"
                     }
                 ]

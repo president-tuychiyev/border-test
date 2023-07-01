@@ -3,7 +3,8 @@
         "title": "Ўзбекистон Республикаси Давлат Хавфсизлик Хизмати Чегара қўшинлари",
         "menu": {
             "security": "Фойдаланиш шартлари",
-            "about": "Дастур ҳақида"
+            "about": "Дастур ҳақида",
+            "possibility": "Дастур имконияти"
         },
         "securityText": [
             "Дастур маълумотларидан ғаразли мақсадларда фойдаланиш муаллифлик ҳуқиқини бузиш билан баробар ҳисобланиб тегишли жазо чораларига сабаб бўлиши мумкин!",
@@ -12,18 +13,46 @@
         "aboutText": [
             "Ушбу дастур маълумотлари, Ўзбекистон республикаси Қуролли кучлар академияси 2 курс тингловчиси Маткаримов Зиёдулла Азимжон ўғли томонидан ишлаб чиқилган.",
             "Дастур версияси: 1.0.0"
-        ]
-    },
-    "home": {
-        "card1": [
+        ],
+        "opportunity": [
             "Жараёнда",
             "Ушбу тизим маълумотлари тўлдирлиш жараёнида.",
             "Имконияти",
             "Ушбу дастурдан лигҳт ҳамда дарк режимларида ишлаш мумкин бўлиб ушбу имкният фойдаланувчи маълумотларни ўқиш жараёнида қулайликлар келтириб чиқаради."
+        ]
+    },
+    "home": {
+        "card1": [
+            "Ўтказиш пунктлари бўйича маълумотнома",
+            "Дастур орқали ўтказиш пунктлари ҳақида барафсил маълумот олиш мумкин бўлиб, ҳусусан пунктларда ўтказиш учун талаб қилнадиган ҳужжатлар рўйҳати, ўтказилиши мумкин бўлган буюмлар ҳажми/миқдори ҳақида тўлиқ маълумотга эга бўлиш ва ўтказиш пунктларининг аниқ манзилларини кўриш мумкин.Дастур орқали ўтказиш пунктлари ҳақида барафсил маълумот олиш мумкин бўлиб, ҳусусан пунктларда ўтказиш учун талаб қилнадиган ҳужжатлар рўйҳати, ўтказилиши мумкин бўлган буюмлар ҳажми/миқдори ҳақида тўлиқ маълумотга эга бўлиш ва ўтказиш пунктларининг аниқ манзилларини кўриш мумкин."
         ],
         "card2": [
-            "Ўтказиш пунктлари бўйича маълумотнома",
-            "Дастур орқали ўтказиш пунктлари ҳақида барафсил маълумот олиш мумкин бўлиб, ҳусусан пунктларда ўтказиш учун талаб қилнадиган ҳужжатлар рўйҳати, ўтказилиши мумкин бўлган буюмлар ҳажми/миқдори ҳақида тўлиқ маълумотга эга бўлиш ва ўтказиш пунктларининг аниқ манзилларини кўриш мумкин."
+            "Ўзбекистонликлар қайси давлатларга визасиз бориши мумкин?",
+            "Henley & Partners компанияси ҳар йили эълон қилинувчи халқаро паспортлар индексини",
+            "янгилади",
+            "Манбаа: daryo.uz",
+            "Батафсил"
+        ],
+        "card3": [
+            "Қайси давлат фуқаролари Ўзбекистонга визасиз кириш имконига эга?",
+            "2018 йилнинг 10 февралидан соддалаштирилган виза режими амалда қўлланувчи мамлакатлар рўйхати билан танишишингиз мумкин.",
+            "Манбаа: kun.uz",
+            "Батафсил"
+        ]
+    },
+    "manual": {
+        "card1": [
+            "Керак бўладигон ҳужжатлар",
+            "Фуқаролик паспорти",
+            "Паспортини йўқотган бўлса ватанга қайтиш гувоҳномаси элчихонадан олинади"
+        ],
+        "card2": [
+            "Ўзбекистон ҳудудига олиб кириш мумкин бўлган буюмлар",
+            "Ўзбекистон ҳудудига 6 ойда чекланган сумма $300 тан нарҳига эга бўлган майши техника олиб кириш мумкин."
+        ],
+        "card3": [
+            "Ўзбекистон ҳудудига олиб кириш ва олиб чиқиш мумкин бўлган сумма",
+            "Ўзбекистон ҳудудига чекланмаган миқдорда $ олиб кириш мумкин, Ўзбекистон ҳудудидан 100 миллион суммадан ошмаган ҳолда пул маблағларини олиб чиқиши мумкин."
         ]
     },
     "location": {
@@ -41,6 +70,10 @@
         "data": [
             {
                 "tag": "Авғонистон билан чегарада",
+                "text": "Ўзбекистон ва Афғонистон чегараси Ўзбекистоннинг ташқи чегараларидан энг қисқаси бўлиб, 144 километр (89 ми) ва Туркманистон билан чегарадош чорраҳадан Амударё бўйлаб Тожикистон билан чегарадош туташувгача ўтади.",
+                "desc": "Butun chegara qismi Amudaryoning tubi boʻylab gʻarbdagi Turkmaniston chegarasi bilan tutashuvidan to sharqdagi Tojikiston chegara tutashuvigacha oʻtadi. Chegara Oʻzbekiston tomonidan avtomobil va temir yoʻl boʻylab oʻtadi va Oʻzbekistonning Termiz shahridan sharqda asosiy nazorat punkti joylashgan. Oʻzbekiston davlati chegara boʻylab ikkita darajadagi toʻsiqdan iborat toʻsiq qurdi: biri tikanli simdan, ikkinchisi esa balandroq, elektr toki (380 volt) oʻrnatilgan tikanli simdan, minalar va qurollangan oʻzbek askarlaridan iborat patrul hizmat faoliyatini olib boradi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Afg%CA%BBoniston_chegarasi#Chegaradan_o%CA%BBtish_joylari",
+                "source": "wikipedia",
                 "children": [
                     {
                         "title": "Термиз-автойўл",
@@ -64,6 +97,10 @@
             },
             {
                 "tag": "Тожикистон билан чегарада",
+                "text": "Ўзбекистон ва Тожикистон чегараси Тожикистон ва Ўзбекистон ўртасидаги халқаро чегара ҳисобланади. У 1,312 километр (815 ми) узунлиги ва Ўзбекистоннинг шарқий қимидан Қирғизистон билан ва жанибий қисмидан Афғонистон билан чегара нуқтасигача давом этади.",
+                "desc": "Chegara shimoldan Qirgʻiziston bilan chegara nuqtasidan boshlanib, Sirdaryo boʻylab gʻarb, shimoli-gʻarb, shimoli-sharqga va nihoyat shimoli-gʻarbga qarab Qurama tizmasiga yetib boradi. Chegara bu tizma boʻylab gʻarbga qarab oʻtib, janubga burilib, Sirdaryo boʻyida Oʻzbekistonning Olmaliq shahri yaqiniga boradi. Chegaraning keyingi qismi nihoyatda qiyshiq boʻlib, Tojikiston hududining uzun choʻzilgan qismi (Zafarobod tumani) va bir qator tartibsiz chiziqlar; oxir-oqibat chegara Turkiston tizmasiga yetib, keskin gʻarbga burilishdan oldin taxminan janubga qarab boradi. Keyin chegara „S“ shaklida boʻlib, shimolda Oʻzbekistonning Zomin milliy bogʻi va Turkiston togʻlari, oʻrtada Zarafshon tizmasi, janubda Hisor tizmasi joylashgan. Keyin chegara taxminan janubga qarab Afgʻoniston chegara nuqtasigacha boradi; chegarasining bir qismi Kofarnihon daryosi boʻylab oʻtadi va Bobotogʻ va Tuyuntov tizmalarini kesib oʻtadi.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Tojikiston_chegarasi#Chegara_o%CA%BBtish_joylari",
+                "source": "wikipedia",
                 "children": [
                     {
                         "title": "Ойбек-автойўл",
@@ -78,7 +115,7 @@
                         "adderess": "Тошкент вилояти"
                     },
                     {
-                        "title": "Plotina-avtoyo‘l",
+                        "title": "Плотина-автойўл",
                         "status": "икки томонлама",
                         "mode": "кундузги",
                         "adderess": "Тошкент вилояти"
@@ -160,6 +197,255 @@
                         "status": "халқаро",
                         "mode": "кечаю-кундуз (24/7)",
                         "adderess": "Сурхандарё вилояти"
+                    }
+                ]
+            },
+            {
+                "tag": "Қозоғистон билан чегарада",
+                "text": "",
+                "desc": "",
+                "link": "",
+                "source": "",
+                "children": [
+                    {
+                        "title": "Доут-ота-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Қорақалпоғистон Республикаси"
+                    },
+                    {
+                        "title": "Малика-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "кундузги",
+                        "adderess": "Сирдарё вилояти"
+                    },
+                    {
+                        "title": "Оқ олтин-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "кундузги",
+                        "adderess": "Сирдарё вилояти"
+                    },
+                    {
+                        "title": "Яллама-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    },
+                    {
+                        "title": "Ғишт-кўприк-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    },
+                    {
+                        "title": "Гулистон-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Сирдарё вилояти"
+                    },
+                    {
+                        "title": "Зангиота-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    },
+                    {
+                        "title": "Тошкент-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    },
+                    {
+                        "title": "Қорақалпоғистон-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Қорақалпоғистон Республикаси"
+                    },
+                    {
+                        "title": "Сирадарё-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Сирдарё вилояти"
+                    },
+                    {
+                        "title": "Келес-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    },
+                    {
+                        "title": "Оқ-қўприк-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Тошкент вилояти"
+                    }
+                ]
+            },
+            {
+                "tag": "Туркманистон билан чегарада",
+                "text": "Туркманистон-Ўзбекистон чегараси — Туркманистон Республикаси ва Ўзбекистон Республикаси давлатлари ўртасидаги чегара ҳисобланади. Узунлиги 1793 км (1114 миля), бу Туркманистоннинг энг узун чегараси ва Ўзбекистоннинг узунлиги бўйича иккинчи ўринда турувчи энг узун чегараси (Ўзбекистоннинг Қозоғистон билан чегарасидан сўнг) саналади.",
+                "desc": "Chegara gʻarbda Qozogʻiston bilan uchish nuqtasidan boshlanadi. U keskin ravishda shimolga, soʻngra shimoli-sharqqa burilib, chegarani kesib oʻtuvchi Sariqamish koʻlidan oʻtib, sharqqa qarab taxminan toʻgʻri chiziq boʻylab oʻtadi; Shuningdek, ushbu boʻlimda Oʻzbekiston hududining Turkmaniston chegarasiga uzoq choʻzilishi tasvirlangan. Keyin chegara Shumanay yaqinidan janubi-sharqqa burilib, Pitnak va Gʻozojak yaqinidagi Amudaryoga yetib borguncha biroz burilishli yoʻnalish boʻylab oʻtadi; keyin daryo boʻylab 40-parallel shimolga pastga tushadi. Keyin chegara Qoraqum choʻli orqali janubi-sharqda bir qator toʻgʻri chiziqlar boʻylab oʻtadi, keyin janubga Koʻhitang tizmasi orqali Amudaryo boʻylab Afgʻoniston bilan chegara nuqtasigacha oʻtadi. Chegaraning katta qismi chegarani uch marta kesib oʻtuvchi yirik temir yoʻl orqali oʻtadi, bu Sovet davridan qolgan meros boʻlib, u yerda infratuzilma oʻsha paytdagi ichki chegaralardan qatʼi nazar qurilgan.",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Turkmaniston_chegarasi",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Олот-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Бухоро вилояти"
+                    },
+                    {
+                        "title": "Дўстлик-автойўл",
+                        "status": "халқаро",
+                        "mode": "кундузги",
+                        "adderess": "Хоразм вилояти"
+                    },
+                    {
+                        "title": "Шовот-автойўл",
+                        "status": "халқаро",
+                        "mode": "кундузги",
+                        "adderess": "Хоразм вилояти"
+                    },
+                    {
+                        "title": "Хожейли-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Хоразм вилояти"
+                    },
+                    {
+                        "title": "Талимаржон-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "кундузги",
+                        "adderess": "Қашқадарё вилояти"
+                    },
+                    {
+                        "title": "Болдир-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Сурхандарё вилояти"
+                    },
+                    {
+                        "title": "Талимаржон-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Қашқадарё вилояти"
+                    },
+                    {
+                        "title": "Хўжадавлат-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Бухоро вилояти"
+                    },
+                    {
+                        "title": "Найманқўл-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Хоразм вилояти"
+                    },
+                    {
+                        "title": "Шовот-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Хоразм вилояти"
+                    }
+                ]
+            },
+            {
+                "tag": "Қирғизистон билан чегарада",
+                "text": "Қирғизистон-Ўзбекистон чегараси, узунлиги 1314  км (816 мил) бўлиб, Қозоғистон чегарасидан Тожикистон чегарасигача чўзилган.[1] Бу Қирғизистоннинг бошқа қўшниларига қараганда энг узун чегараси ҳисобланади.",
+                "desc": "Chegara shimolda Qozogʻiston bilan chegara nuqtasidan boshlanib, soʻngra Qozogʻiston va Qirgʻiziston oʻrtasida barmoq shaklida kiritilgan oʻzbek yerlari boʻylab davom etadi. Chegara Pskem togʻlaridan oʻtadi, ularning katta qismi bir qator milliy bogʻlar (Oʻzbekistondagi Ugom-Chotqol davlat tabiat milliy bogʻi va Qirgʻizistondagi Besh-Orol davlat qoʻriqxonasi)ga aylantirilgan",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Qirg%CA%BBiziston_chegarasi",
+                "source": "wikipedia",
+                "children": [
+                    {
+                        "title": "Дўстлик-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Маданият-автойўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Ўзбекистон-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Фарғона вилояти"
+                    },
+                    {
+                        "title": "Косонсой-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "кундузги",
+                        "adderess": "Наманган вилояти"
+                    },
+                    {
+                        "title": "Савай-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Хонобод-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Учқўргўон-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Наманган вилояти"
+                    },
+                    {
+                        "title": "Қувасой-темир йўл",
+                        "status": "халқаро",
+                        "mode": "кечаю-кундуз (24/7)",
+                        "adderess": "Фарғона вилояти"
+                    },
+                    {
+                        "title": "Қорасув-автойўл",
+                        "status": "халқаро",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Хонобод-автойўл",
+                        "status": "халқаро",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Кесканёр-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Учқўргўон-автойўл",
+                        "status": "халқаро",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Наманган вилояти"
+                    },
+                    {
+                        "title": "Мингтепа-автойўл",
+                        "status": "икки томонлама",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Пушмон-автойўл",
+                        "status": "соддлаштирилган",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Андижон вилояти"
+                    },
+                    {
+                        "title": "Қорақўрғон-автойўл",
+                        "status": "соддлаштирилган",
+                        "mode": "фаолият юритмаябди",
+                        "adderess": "Наманган вилояти"
                     }
                 ]
             }
