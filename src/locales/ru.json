@@ -217,13 +217,13 @@
                         "title": "Malika-avtoyo‘l",
                         "status": "двусторонний",
                         "mode": "дневное время",
-                        "adderess": "Sirdaryo viloyati"
+                        "adderess": "Сырдарьинская область"
                     },
                     {
                         "title": "Oq oltin-avtoyo‘l",
                         "status": "двусторонний",
                         "mode": "дневное время",
-                        "adderess": "Sirdaryo viloyati"
+                        "adderess": "Сырдарьинская область"
                     },
                     {
                         "title": "Yallama-avtoyo‘l",
@@ -241,7 +241,7 @@
                         "title": "Guliston-avtoyo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Sirdaryo viloyati"
+                        "adderess": "Сырдарьинская область"
                     },
                     {
                         "title": "Zangiota-avtoyo‘l",
@@ -265,7 +265,7 @@
                         "title": "Siradaryo-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Sirdaryo viloyati"
+                        "adderess": "Сырдарьинская область"
                     },
                     {
                         "title": "Keles-temir yo‘l",
@@ -282,8 +282,8 @@
                 ]
             },
             {
-                "tag": "Turkmaniston bilan chegarada",
-                "text": "Turkmaniston-Oʻzbekiston chegarasi — Turkmaniston Respublikasi va Oʻzbekiston Respublikasi davlatlari oʻrtasidagi chegara hisoblanadi. Uzunligi 1793 km (1114 milya), bu Turkmanistonning eng uzun chegarasi va Oʻzbekistonning uzunligi boʻyicha ikkinchi oʻrinda turuvchi eng uzun chegarasi (Oʻzbekistonning Qozogʻiston bilan chegarasidan soʻng) sanaladi.",
+                "tag": "На границе с Туркменистаном",
+                "text": "Граница Туркменистан-Узбекистан является границей между Республикой Туркменистан и Республикой Узбекистан. Протяженностью 1793 км (1114 миль) это самая длинная граница Туркменистана и вторая по протяженности граница Узбекистана (после границы Узбекистана с Казахстаном).",
                 "desc": "Chegara gʻarbda Qozogʻiston bilan uchish nuqtasidan boshlanadi. U keskin ravishda shimolga, soʻngra shimoli-sharqqa burilib, chegarani kesib oʻtuvchi Sariqamish koʻlidan oʻtib, sharqqa qarab taxminan toʻgʻri chiziq boʻylab oʻtadi; Shuningdek, ushbu boʻlimda Oʻzbekiston hududining Turkmaniston chegarasiga uzoq choʻzilishi tasvirlangan. Keyin chegara Shumanay yaqinidan janubi-sharqqa burilib, Pitnak va Gʻozojak yaqinidagi Amudaryoga yetib borguncha biroz burilishli yoʻnalish boʻylab oʻtadi; keyin daryo boʻylab 40-parallel shimolga pastga tushadi. Keyin chegara Qoraqum choʻli orqali janubi-sharqda bir qator toʻgʻri chiziqlar boʻylab oʻtadi, keyin janubga Koʻhitang tizmasi orqali Amudaryo boʻylab Afgʻoniston bilan chegara nuqtasigacha oʻtadi. Chegaraning katta qismi chegarani uch marta kesib oʻtuvchi yirik temir yoʻl orqali oʻtadi, bu Sovet davridan qolgan meros boʻlib, u yerda infratuzilma oʻsha paytdagi ichki chegaralardan qatʼi nazar qurilgan.",
                 "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Turkmaniston_chegarasi",
                 "source": "wikipedia",
@@ -292,31 +292,31 @@
                         "title": "Olot-avtoyo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Buxoro viloyati"
+                        "adderess": "Бухарская область"
                     },
                     {
                         "title": "Do'stlik-avtoyo‘l",
                         "status": "Международный",
                         "mode": "дневное время",
-                        "adderess": "Xorazm viloyati"
+                        "adderess": "Хорезмская область"
                     },
                     {
                         "title": "Shovot-avtoyo‘l",
                         "status": "Международный",
                         "mode": "дневное время",
-                        "adderess": "Xorazm viloyati"
+                        "adderess": "Хорезмская область"
                     },
                     {
                         "title": "Xojeyli-avtoyo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Xorazm viloyati"
+                        "adderess": "Хорезмская область"
                     },
                     {
                         "title": "Talimarjon-avtoyo‘l",
                         "status": "двусторонний",
                         "mode": "дневное время",
-                        "adderess": "Qashqadaryo viloyati"
+                        "adderess": "Кашкадарьинская область"
                     },
                     {
                         "title": "Boldir-temir yo‘l",
@@ -328,46 +328,46 @@
                         "title": "Talimarjon-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Qashqadaryo viloyati"
+                        "adderess": "Кашкадарьинская область"
                     },
                     {
                         "title": "Xo'jadavlat-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Buxoro viloyati"
+                        "adderess": "Бухарская область"
                     },
                     {
                         "title": "Naymanqo'l-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Xorazm viloyati"
+                        "adderess": "Хорезмская область"
                     },
                     {
                         "title": "Shovot-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Xorazm viloyati"
+                        "adderess": "Хорезмская область"
                     }
                 ]
             },
             {
-                "tag": "Qirgʻiziston bilan chegarada",
-                "text": "",
+                "tag": "На границе с Кыргызстаном",
+                "text": "Кыргызско-узбекская граница имеет длину 1314 км (816 миль) и простирается от границы с Казахстаном до границы с Таджикистаном.[1] Это самая длинная граница Кыргызстана по сравнению с другими его соседями.",
                 "desc": "",
-                "link": "",
-                "source": "",
+                "link": "https://uz.wikipedia.org/wiki/O%CA%BBzbekiston_va_Qirg%CA%BBiziston_chegarasi",
+                "source": "wikipedia",
                 "children": [
                     {
                         "title": "Do'stlik-avtoyo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Madaniyat-avtoyo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "O‘zbekiston-avtoyo‘l",
@@ -385,13 +385,13 @@
                         "title": "Savay-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Xonobod-temir yo‘l",
                         "status": "Международный",
                         "mode": "круглосуточно (24/7)",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Uchqo‘rgo‘on-temir yo‘l",
@@ -409,19 +409,19 @@
                         "title": "Qorasuv-avtoyo‘l",
                         "status": "Международный",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Xonobod-avtoyo‘l",
                         "status": "Международный",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Keskanyor-avtoyo‘l",
                         "status": "двусторонний",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Uchqo‘rgo‘on-avtoyo‘l",
@@ -433,13 +433,13 @@
                         "title": "Mingtepa-avtoyo‘l",
                         "status": "двусторонний",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Pushmon-avtoyo‘l",
                         "status": "soddlashtirilgan",
                         "mode": "faoliyat yuritmayabdi",
-                        "adderess": "Andijon viloyati"
+                        "adderess": "Андижанская область"
                     },
                     {
                         "title": "Qoraqo‘rg‘on-avtoyo‘l",
